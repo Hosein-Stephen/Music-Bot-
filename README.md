@@ -27,20 +27,12 @@
   </p>
 </p>
 
-## 🔥 Unique Features
+## 🔥 chtry run kni?
 
-- User-friendly and Easy to Use
-- Highly Configurable
-- Customizable Prefix
-- Multilingual support [Here](/Translation.md)
-- Hybrid Command Handling (Slash and Normal Commands)
-- Developed using TypeScript and Discord.js v14
-- Advanced Music System
-- Powerful Search Engine
-- 12 + Music Filters
-- 24/7 Music Playback
-- Playlist commands
-- Music channel system
+to systemet file config replace in bkn
+bad ba dastor java -Xms1G -Xmx1500M -jar Lavalink.jar to bakhsh lavalink run mkni bad dge safa hast
+yadet bashe age khasti youtube estefade kni baiad acc google bedi vaqti java -Xms1G -Xmx1500M -jar Lavalink.jar bzni log mindaze ke tosh ye link google mide vasl mkni ba code
+va...
 
 ## 🎶 Support Sources
 
